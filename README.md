@@ -1,3 +1,10 @@
+# I call on the method, say_hello, and give it the string "Gabriela" 
+say_hello("Gabriela")
+ 
+# The method prints this text to the screen:
+Hello Gabriela!
+
+#Run learn
 # Say Hello
 
 ## Objectives
@@ -15,6 +22,7 @@ say_hello("Gabriela")
 # The method prints this text to the screen:
 Hello Gabriela!
 ```
+Run learn
 
 There is one more thing this method should do: if you call on this method and forget to give it the name of a person, it should just say, `"Hello Ruby Programmer!"`. Use a default argument to accomplish this!
 
