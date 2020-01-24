@@ -1,1 +1,3 @@
-# Build your say_hello method here
+def greeting say_hello.rb
+  put say_hello "Gabriel"
+end
