@@ -3,7 +3,7 @@
 ## Objectives
 
 1. Build a method that can be called with an optional argument by defining that method with a default argument.
-
+https://www.learn.co/tracks/online-software-engineering-structured/procedural-ruby/variables-and-methods/methods-and-default-arguments-lab#
 ## Instructions
 
 You will build a method called `say_hello`. This method should accept the argument of a person's name. It then should print `"Hello "` with the name followed by an exclamation point (don't forget that space after the "Hello"). For instance:
